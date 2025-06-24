@@ -12,10 +12,10 @@ LOCAL IP:
 -RPC Dump
 
 # HOW TO USE❓
-In the top right click "Code"
-Download as ZIP
-Extract All
-Delete README.md
+In the top right click "Code" >
+Download as ZIP >
+Extract All >
+Delete README.md >
 ALL SET!
 
 # ⚠️WARNING⚠️
