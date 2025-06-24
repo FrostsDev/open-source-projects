@@ -11,6 +11,13 @@ LOCAL IP:
 -ARP Spoof (Spoof your own DOS)
 -RPC Dump
 
+# HOW TO USE❓
+In the top right click "Code"
+Download as ZIP
+Extract All
+Delete README.md
+ALL SET!
+
 # ⚠️WARNING⚠️
 I AM IN NO WAY SHAPE OR FORM RESPONSIABLE FOR YOUR ACTIONS!
 
